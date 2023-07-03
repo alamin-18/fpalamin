@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqulshourav&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqulshourav" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/fp_alamin" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fp_alamin" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="fp_alamin" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [brokertarieven](https://brokertarieven.nl) & [brokerdata](https://brokerdata.tech) & [compareallbrokers](https://compareallbrokers.com) -->
 
